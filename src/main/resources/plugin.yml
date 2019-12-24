@@ -1,0 +1,6 @@
+name: Vipfly
+version: ${project.version}
+main: com.xiaozhengkeji.vipfly.Vipfly
+depend: [PlaceholderAPI]
+authors: [XiaoZhengRS]
+description: QQ1419158026
